@@ -1394,7 +1394,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>darkwake=10  keepsyms=1 alcid=17 brcmfx-country=#a brcmfx-aspm  brcmfx-driver=1</string>
+				<string>darkwake=10  keepsyms=1 alcid=97 brcmfx-country=#a brcmfx-aspm  brcmfx-driver=1</string>
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
 				<key>csr-active-config</key>
